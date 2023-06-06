@@ -1,6 +1,8 @@
 
 ## Projeto
 Projeto desenvolvido para um desafio técnico, onde o objetivo era criar um sistema de enquete
+![image](https://github.com/Evandromck/opinio-front-end/assets/64655153/aba2b5f3-d133-478e-8828-1db43122dd50)
+
 
 ## Backend
 Acesse o backend do projeto [aqui](https://github.com/Evandromck/opinio).
