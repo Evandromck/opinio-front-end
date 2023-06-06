@@ -23,4 +23,4 @@ respostas a elas.
 - [Day.js](https://day.js.org/)
 
 ## Layout
-Você pode visualizar o layout do projeto através [desse link](https://opinio-front-end.vercel.app).
+Você pode visualizar o projeto através [desse link](https://opinio-front-end.vercel.app).
