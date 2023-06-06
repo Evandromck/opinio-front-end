@@ -21,3 +21,6 @@ respostas a elas.
 - [Styled Components](https://styled-components.com/)
 - [Axios](https://axios-http.com)
 - [Day.js](https://day.js.org/)
+
+## Layout
+Você pode visualizar o layout do projeto através [desse link](https://opinio-front-end.vercel.app).
